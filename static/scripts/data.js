@@ -6,7 +6,7 @@ const resumeData = {
         email: "yogesh.mevada@gmail.com",
         phone: "+91 7387378726",
         location: "Mumbai, IN",
-        resumeUrl: "#",
+        resumeUrl: "./static/mevada_yogesh_resume.pdf",
         social: {
             linkedin: "https://in.linkedin.com/in/mevadayogesh",
             github: "https://github.com/mevadayogesh",
